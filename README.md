@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-![Hi there 👋](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋&speed=50)
+![Hi there 👋](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋&speed=25)
 
 
 <!--
