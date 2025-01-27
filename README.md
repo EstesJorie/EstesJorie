@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋/duration=10000)](https://git.io/typing-svg)
+![Hi there 👋](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋&speed=50)
 
 
 <!--
