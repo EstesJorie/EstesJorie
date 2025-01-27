@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+
 
 <!--
 **EstesJorie/EstesJorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://github-readme-stats.vercel.app/api?username=EstesJorie&show_icons=true&theme=dark)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=EstesJorie&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstesJorie&show_icons=true&theme=github_dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstesJorie&show_icons=true&theme=github_dark)]
 
 ### Languages and Tools
 
@@ -32,3 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rstudio/rstudio-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EstesJorie)](https://github.com/ryo-ma/github-profile-trophy)
