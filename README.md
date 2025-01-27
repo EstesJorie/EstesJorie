@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-line.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rstudio/rstudio-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 #
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EstesJorie)](https://github.com/ryo-ma/github-profile-trophy)
+
+##
+![Visitor Count](https://profile-counter.glitch.me/EstesJorie/count.svg)
