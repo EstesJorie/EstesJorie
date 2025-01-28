@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EstesJorie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EstesJorie&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 ![Visitor Count](https://profile-counter.glitch.me/EstesJorie/count.svg)
