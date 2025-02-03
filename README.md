@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EstesJorie&show_icons=true&theme=github_dark" style="height: 200px;"/>
+(https://github-readme-stats.vercel.app/api?username=EstesJorie&show_icons=true&theme=github_dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstesJorie&layout=donut&show_icons=true&theme=github_dark" style="height: 200px;"/>
 </div>
 
