@@ -1,6 +1,14 @@
 <h1>Hi 👋, I'm Joe!</h1>
 <p>A passionate developer from Lancaster!</p>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estesjorie" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" />
+  </a>
+</div>
+
 <h2>Languages and Tools</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" /></a>
@@ -44,7 +52,3 @@
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" />
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estesjorie" alt="GitHub Streak" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" /></a></p>
