@@ -2,12 +2,13 @@
 <p>A passionate developer from Lancaster!</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estesjorie" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estesjorie" alt="GitHub Streak" style="height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; object-fit: contain;" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" style="height: 200px; object-fit: contain;" />
   </a>
 </div>
+
 
 <h2>Languages and Tools</h2>
 <p>
