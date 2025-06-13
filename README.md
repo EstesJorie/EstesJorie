@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=estesjorie" alt="GitHub Streak" style="height: 150px; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" style="height: 150px; object-fit: contain;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=estesjorie" alt="GitHub Trophies" style="height: 125px; object-fit: contain;" />
   </a>
 </div>
 
