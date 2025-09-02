@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Joe!</h1>
-<p>A passionate developer from Lancaster!</p>
+<p>A data-scientist and developer from Bristol!</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estesjorie&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
